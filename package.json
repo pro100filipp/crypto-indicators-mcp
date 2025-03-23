@@ -1,0 +1,12 @@
+{
+  "name": "crypto-indicators-mcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "indicatorts": "^2.2.2",
+    "trading-indicator": "^2.0.4",
+    "undici": "^7.5.0"
+  }
+}
