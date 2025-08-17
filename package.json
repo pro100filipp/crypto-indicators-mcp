@@ -2,6 +2,9 @@
   "name": "crypto-indicators-mcp",
   "version": "1.0.1",
   "main": "index.js",
+  "bin": {
+    "crypto-indicators-mcp": "./index.js"
+  },
   "homepage": "https://github.com/kukapay/crypto-indicators-mcp",
   "license": "MIT",
   "dependencies": {
